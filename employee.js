@@ -10,4 +10,4 @@ const fs = require('fs');
     console.log("Employee: " + mNote);
 }
 
-module.exports = employee;
+module.exports = employee
