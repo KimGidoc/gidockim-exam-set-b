@@ -10,4 +10,4 @@ const add = function(note=[],oldNote){
     fs.writeFileSync('data.txt', ObjectNote);
 }
 
-module.exports = add
+module.exports = add;

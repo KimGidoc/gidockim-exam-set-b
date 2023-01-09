@@ -4,4 +4,4 @@ const write = function(data="default"){
     fs.writeFileSync('data.txt', data);
 }
 
-module.exports = write
+module.exports = write;
